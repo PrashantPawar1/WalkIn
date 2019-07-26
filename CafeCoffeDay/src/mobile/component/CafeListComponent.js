@@ -34,7 +34,7 @@ const CafeListComponent = (props) => {
                    // source={{uri:"https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80"
                    // }}
                     style={{
-                        width: 100,
+                        flex:2,
                         height: 100,
                         marginLeft:20,
                         resizeMode: 'contain',
@@ -51,7 +51,7 @@ const CafeListComponent = (props) => {
                         uri: "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80"
                     }}
                         style={{
-                        width: 100,
+                        flex:2,
                         height: 100,
                         marginLeft:20,
                         resizeMode: 'contain',
@@ -69,12 +69,12 @@ const CafeListComponent = (props) => {
             <View key={'key'+value} style = {item.isSelected ? styles.cartStyle : styles.productStyle}>
                 <TouchableOpacity  onPress={() => (props.onRowPress(item))}>
                     <View style={{
-                        width:'100%',flexDirection: 'row', height: 100, alignItems: 'center',
+                       flexDirection: 'row', height: 100, alignItems: 'center',flex:1
                     }}
                     >
                         {showImage(item)}
                         <View style={{
-                            flexDirection: 'column', alignItems: 'flex-start',width:'50%'
+                            flexDirection: 'column', alignItems: 'flex-start',flex:8
                         }}
                         >
                         <Text style = {styles.row} ellipsizeMode='tail'>
@@ -94,14 +94,12 @@ const CafeListComponent = (props) => {
     };
 
     return (
-        <View style={styles.container}>
-            <View style={{flex:1}}>
-                <FlatList
-                    data={props.data}
-                    renderItem={({ item, index }) => renderItem(item, index)}
-                    keyExtractor = { (item, index) => index.toString() }
-                />
-            </View>
+        <View style={{flex:1}}>
+            <FlatList
+                data={props.data}
+                renderItem={({ item, index }) => renderItem(item, index)}
+                keyExtractor = { (item, index) => index.toString() }
+            />
         </View>
     );
 };
