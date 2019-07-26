@@ -1,2 +1,2 @@
-# Walkin
-Interview Assignment
+# WalkIn
+CCD Project

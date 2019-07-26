@@ -80,7 +80,7 @@ class CafeListViewContainer extends Component {
 
     render() {
         return (
-             <View style={{width:'100%',height:'100%',borderBottomLeftRadius:10,borderBottomRightRadius:10}} >
+             <View style={{flex:1}} >
                  {
                      this.props.loading ?
                          <View style={style.maskBox}>

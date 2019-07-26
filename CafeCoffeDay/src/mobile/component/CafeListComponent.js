@@ -95,7 +95,7 @@ const CafeListComponent = (props) => {
 
     return (
         <View style={styles.container}>
-            <View style={{width:'100%',height:'100%'}}>
+            <View style={{flex:1}}>
                 <FlatList
                     data={props.data}
                     renderItem={({ item, index }) => renderItem(item, index)}
