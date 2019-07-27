@@ -127,9 +127,7 @@ const mapStateToProps = state => ({
 
    // cafeListData: state.cafeListReducer.cafeListData,
     cafeListData: getCCDList(state),
-    cartListData:state.cafeListReducer.cartListData,
     loading:state.cafeListReducer.loading,
-    isCartSelected:state.cafeListReducer.isCartSelected
 });
 
 const mapDispatchToProps = dispatch => ({

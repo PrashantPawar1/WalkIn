@@ -1,0 +1,2353 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cafe List Container Snapshot +++capturing Snapshot of Cafe List Container 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView
+      data={
+        Array [
+          Object {
+            "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=520763",
+            "id": 0,
+            "ingredients": "tomato, onions, red pepper, garlic, olive oil, zucchini, cream cheese, vermicelli, eggs, parmesan cheese, milk, italian seasoning, salt, black pepper",
+            "isSelected": false,
+            "thumbnail": "http://img.recipepuppy.com/560556.jpg",
+            "title": "Vegetable-Pasta Oven Omelet",
+          },
+          Object {
+            "href": "http://www.bigoven.com/43919-Roasted-Pepper-and-Bacon-Omelet-recipe.html",
+            "id": 1,
+            "ingredients": "eggs, salt, black pepper, butter, black pepper, bacon, onions, garlic, roasted red peppers, oregano, black pepper",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Roasted Pepper and Bacon Omelet",
+          },
+          Object {
+            "href": "http://cookeatshare.com/recipes/broccoli-oven-omelet-92851",
+            "id": 2,
+            "ingredients": "eggs, broccoli, onions, parmesan cheese, lowfat milk, salt, basil, garlic, tomato, parmesan cheese",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "
+Broccoli Oven Omelet Recipe
+
+",
+          },
+          Object {
+            "href": "http://www.epicurious.com/recipes/food/views/Eggplant-Omelet-with-Coriander-and-Caraway-306",
+            "id": 3,
+            "ingredients": "caraway seed, coriander, eggplant, eggs, garlic, lemon, olive oil, onions, black pepper, salt",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Eggplant Omelet with Coriander and Caraway",
+          },
+          Object {
+            "href": "http://www.bigoven.com/143831-Eggplant-Omelet-with-Coriander-And-Caraway-recipe.html",
+            "id": 4,
+            "ingredients": "eggplant, olive oil, onions, garlic, egg, caraway seed, coriander, salt, black pepper, lemon",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Eggplant Omelet with Coriander And Caraway",
+          },
+          Object {
+            "href": "http://www.bigoven.com/45151-Broccoli-and-Cheese-Omelet-recipe.html",
+            "id": 5,
+            "ingredients": "onions, garlic, chicken broth, cottage cheese, oregano, black pepper, egg substitute, bread, mozzarella cheese, butter",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Broccoli and Cheese Omelet",
+          },
+          Object {
+            "href": "http://www.bigoven.com/149383-Chard-And-Onion-Omelet-recipe.html",
+            "id": 6,
+            "ingredients": "olive oil, onions, leaves, garlic, eggs, parsley, basil, thyme, gruyere cheese, parmesan cheese",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Chard And Onion Omelet",
+          },
+          Object {
+            "href": "http://www.cdkitchen.com/recipes/recs/2184/Picnic-Omelet-Squares99498.shtml",
+            "id": 7,
+            "ingredients": "eggs, garlic, parmesan cheese, olive oil, onions, peas, potato, red pepper, salt, tomato, zucchini",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Picnic Omelet Squares Recipe",
+          },
+          Object {
+            "href": "http://www.cooks.com/rec/view/0,185,153160-249194,00.html",
+            "id": 8,
+            "ingredients": "vegetable oil, green pepper, onions, water, milk, eggs, black pepper, mushroom, garlic, salt, chili powder",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Spanish Omelet",
+          },
+          Object {
+            "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=1622444",
+            "id": 9,
+            "ingredients": "egg substitute, milk, parsley, thyme, salt, black pepper, eggs, flour, nonstick cooking spray, onions, garlic, salad greens, salad greens, red wine vinegar, olive oil, goat cheese, almonds",
+            "isSelected": false,
+            "thumbnail": "http://img.recipepuppy.com/514820.jpg",
+            "title": "Onion and Fresh Herb Omelet with Mixed Greens",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "http://img.recipepuppy.com/560556.jpg",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Vegetable-Pasta Oven Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Roasted Pepper and Bacon Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    
+Broccoli Oven Omelet Recipe
+
+
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Eggplant Omelet with Coriander and Caraway
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Eggplant Omelet with Coriander And Caraway
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Broccoli and Cheese Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Chard And Onion Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Picnic Omelet Squares Recipe
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Spanish Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "http://img.recipepuppy.com/514820.jpg",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Onion and Fresh Herb Omelet with Mixed Greens
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
+
+exports[`State Snapshot +++capturing Snapshot of Cafe List Container 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <RCTScrollView
+      data={
+        Array [
+          Object {
+            "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=520763",
+            "id": 0,
+            "ingredients": "tomato, onions, red pepper, garlic, olive oil, zucchini, cream cheese, vermicelli, eggs, parmesan cheese, milk, italian seasoning, salt, black pepper",
+            "isSelected": false,
+            "thumbnail": "http://img.recipepuppy.com/560556.jpg",
+            "title": "Vegetable-Pasta Oven Omelet",
+          },
+          Object {
+            "href": "http://www.bigoven.com/43919-Roasted-Pepper-and-Bacon-Omelet-recipe.html",
+            "id": 1,
+            "ingredients": "eggs, salt, black pepper, butter, black pepper, bacon, onions, garlic, roasted red peppers, oregano, black pepper",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Roasted Pepper and Bacon Omelet",
+          },
+          Object {
+            "href": "http://cookeatshare.com/recipes/broccoli-oven-omelet-92851",
+            "id": 2,
+            "ingredients": "eggs, broccoli, onions, parmesan cheese, lowfat milk, salt, basil, garlic, tomato, parmesan cheese",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "
+Broccoli Oven Omelet Recipe
+
+",
+          },
+          Object {
+            "href": "http://www.epicurious.com/recipes/food/views/Eggplant-Omelet-with-Coriander-and-Caraway-306",
+            "id": 3,
+            "ingredients": "caraway seed, coriander, eggplant, eggs, garlic, lemon, olive oil, onions, black pepper, salt",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Eggplant Omelet with Coriander and Caraway",
+          },
+          Object {
+            "href": "http://www.bigoven.com/143831-Eggplant-Omelet-with-Coriander-And-Caraway-recipe.html",
+            "id": 4,
+            "ingredients": "eggplant, olive oil, onions, garlic, egg, caraway seed, coriander, salt, black pepper, lemon",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Eggplant Omelet with Coriander And Caraway",
+          },
+          Object {
+            "href": "http://www.bigoven.com/45151-Broccoli-and-Cheese-Omelet-recipe.html",
+            "id": 5,
+            "ingredients": "onions, garlic, chicken broth, cottage cheese, oregano, black pepper, egg substitute, bread, mozzarella cheese, butter",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Broccoli and Cheese Omelet",
+          },
+          Object {
+            "href": "http://www.bigoven.com/149383-Chard-And-Onion-Omelet-recipe.html",
+            "id": 6,
+            "ingredients": "olive oil, onions, leaves, garlic, eggs, parsley, basil, thyme, gruyere cheese, parmesan cheese",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Chard And Onion Omelet",
+          },
+          Object {
+            "href": "http://www.cdkitchen.com/recipes/recs/2184/Picnic-Omelet-Squares99498.shtml",
+            "id": 7,
+            "ingredients": "eggs, garlic, parmesan cheese, olive oil, onions, peas, potato, red pepper, salt, tomato, zucchini",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Picnic Omelet Squares Recipe",
+          },
+          Object {
+            "href": "http://www.cooks.com/rec/view/0,185,153160-249194,00.html",
+            "id": 8,
+            "ingredients": "vegetable oil, green pepper, onions, water, milk, eggs, black pepper, mushroom, garlic, salt, chili powder",
+            "isSelected": false,
+            "thumbnail": "",
+            "title": "Spanish Omelet",
+          },
+          Object {
+            "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=1622444",
+            "id": 9,
+            "ingredients": "egg substitute, milk, parsley, thyme, salt, black pepper, eggs, flour, nonstick cooking spray, onions, garlic, salad greens, salad greens, red wine vinegar, olive oil, goat cheese, almonds",
+            "isSelected": false,
+            "thumbnail": "http://img.recipepuppy.com/514820.jpg",
+            "title": "Onion and Fresh Herb Omelet with Mixed Greens",
+          },
+        ]
+      }
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      numColumns={1}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "http://img.recipepuppy.com/560556.jpg",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Vegetable-Pasta Oven Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Roasted Pepper and Bacon Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    
+Broccoli Oven Omelet Recipe
+
+
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Eggplant Omelet with Coriander and Caraway
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Eggplant Omelet with Coriander And Caraway
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Broccoli and Cheese Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Chard And Onion Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Picnic Omelet Squares Recipe
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://images.unsplash.com/photo-1478144592103-25e218a04891?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1568&q=80",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Spanish Omelet
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "backgroundColor": "white",
+                "flex": 1,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "flex": 1,
+                    "flexDirection": "row",
+                    "height": 100,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "http://img.recipepuppy.com/514820.jpg",
+                    }
+                  }
+                  style={
+                    Object {
+                      "flex": 2,
+                      "height": 100,
+                      "marginLeft": 20,
+                      "resizeMode": "contain",
+                    }
+                  }
+                />
+                <View
+                  style={
+                    Object {
+                      "alignItems": "flex-start",
+                      "flex": 8,
+                      "flexDirection": "column",
+                    }
+                  }
+                >
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    Onion and Fresh Herb Omelet with Mixed Greens
+                  </Text>
+                  <Text
+                    ellipsizeMode="tail"
+                    style={
+                      Object {
+                        "color": "#0F2C5A",
+                        "fontSize": 16,
+                        "fontWeight": "600",
+                        "paddingLeft": 30,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    50 $
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#F2F3F8",
+                  "height": 1,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
