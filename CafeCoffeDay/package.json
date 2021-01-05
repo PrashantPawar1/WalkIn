@@ -8,7 +8,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "lodash": "^4.17.10",
     "lodash.debounce": "^4.0.8",
     "optional": "^0.1.4",
